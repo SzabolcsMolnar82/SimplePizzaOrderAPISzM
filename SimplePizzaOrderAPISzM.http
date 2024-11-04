@@ -1,0 +1,6 @@
+@SimplePizzaOrderAPISzM_HostAddress = http://localhost:5103
+
+GET {{SimplePizzaOrderAPISzM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
